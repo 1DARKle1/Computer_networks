@@ -3,6 +3,6 @@
 # структура:
 
 Экзамен
-- bilet14.md
-- bilet14.ptk
+- [bilet14.md](bilet14.md)
+- [bilet14.ptk](bilet14.pkt)
 - README.md
